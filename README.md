@@ -117,11 +117,11 @@ Hi there! I'm **Ananya**, a **tech enthusiast, problem-solver, and creative deve
 
 ### 🎨 Tune Trap (Emoticon Detection Platform)  
 A fun and interactive ML-powered platform that deciphers emotions through facial expressions.  
-⭐ [Explore Project](https://github.com/your-repo-link)
+⭐ [Explore Project](https://github.com/29ananyaseth/TuneTrap-Emotion-Detection-Platform-)
 
 ### 🩺 Breast Cancer Detection  
 A machine learning model leveraging SVM to accurately classify breast cancer data.  
-⭐ [Discover More](https://github.com/your-repo-link)
+⭐ [Discover More](https://github.com/29ananyaseth/Breast-Cancer-Prediction)
 
 
 
