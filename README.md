@@ -4,22 +4,15 @@ Hi there! I'm **Ananya**, a **tech enthusiast, problem-solver, and creative deve
 
 ---
 
-## 🚀 A Glimpse Into My World
 
-> 🌟 *"Code is like humor. When you have to explain it, it’s bad."*
-
-- 🌱 **Learning:** Mastering advanced **DSA**, **machine learning**, and **full-stack development**.
-- 🏆 **Achievements:** Developed projects like **Breast Cancer Detection ML model** and a **Tune Trap (Emotion Detection Platform)**  .
-- 💬 **Let's Collaborate:** Open to exciting and impactful tech projects!
-
----
 ## 📈 GitHub at a Glance
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ananyaseth&show_icons=true&locale=en&layout=compact" alt="29ananyaseth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29ananyaseth&show_icons=true&locale=en" alt="29ananyaseth" /></p>
 
-
+<br>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=29ananyaseth&label=Profile%20views&color=0e75b6&style=flat"  alt="Profile Views"/>
 </p>
@@ -128,7 +121,7 @@ A machine learning model leveraging SVM to accurately classify breast cancer dat
 ---
 
 
-## 🌐 Where to Find Mehttps:
+## 🌐 Where to Find Me:
 
 - 🌟 **LinkedIn:** [MyLinkedIn](https://linkedin.com/in/ananya-seth-674027265/)
 - 🏆 **LeetCode:** [My LeetCode Profile](https://leetcode.com/as29)
