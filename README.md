@@ -1,4 +1,4 @@
-# 👩‍💻 Welcome to Ananya's Coding Universe! 🌌
+# 👩‍💻 Welcome to my Universe! 🌌
 
 Hi there! I'm **Ananya**, a **tech enthusiast, problem-solver, and creative developer** pursuing a **BTech in Computer Science Engineering** at **Pranveer Singh Institute of Technology, Kanpur**. My goal is to craft **innovative solutions** that make a difference, whether through code or collaboration.
 
@@ -9,7 +9,7 @@ Hi there! I'm **Ananya**, a **tech enthusiast, problem-solver, and creative deve
 > 🌟 *"Code is like humor. When you have to explain it, it’s bad."*
 
 - 🌱 **Learning:** Mastering advanced **DSA**, **machine learning**, and **full-stack development**.
-- 🏆 **Achievements:** Developed projects like **Breast Cancer Detection ML model** ans a **Tune Trap (Emotion Detection Platform)**  .
+- 🏆 **Achievements:** Developed projects like **Breast Cancer Detection ML model** and a **Tune Trap (Emotion Detection Platform)**  .
 - 💬 **Let's Collaborate:** Open to exciting and impactful tech projects!
 
 ---
