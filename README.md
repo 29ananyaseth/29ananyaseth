@@ -124,7 +124,7 @@ A machine learning model leveraging SVM to accurately classify breast cancer dat
 ## 🌐 Where to Find Me:
 
 - 🌟 **LinkedIn:** [MyLinkedIn](https://linkedin.com/in/ananya-seth-674027265/)
-- 🏆 **LeetCode:** [My LeetCode Profile](https://leetcode.com/as29)
+- 🏆 **LeetCode:** [My LeetCode Profile](https://leetcode.com/as_29)
 - 📧 **Email:**[ananyase29@gmail.com](mailto:ananyase29@example.com)
 
 ---
