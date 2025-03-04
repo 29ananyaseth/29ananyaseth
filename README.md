@@ -1,6 +1,13 @@
-# 👩‍💻 Welcome to my Universe! 🌌
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=5000&color=ffffff&lines=Hey+There!+👋🏻;+I'm+Ananya+Seth+👩‍💻;" />
 
-Hi there! I'm **Ananya**, a **tech enthusiast, problem-solver, and creative developer** pursuing a **BTech in Computer Science Engineering** at **Pranveer Singh Institute of Technology, Kanpur**. My goal is to craft **innovative solutions** that make a difference, whether through code or collaboration.
+🚀 **Tech Enthusiast | Problem-Solver | Creative Developer**  
+
+🎓 **BTech CSE** @ Pranveer Singh Institute of Technology, Kanpur  
+💡 Turning ideas into **impactful solutions** through code & innovation  
+🔍 Exploring **AI, full-stack development, and problem-solving**  
+
+✨ Always learning, building, and creating—let’s connect!  
+
 
 ---
 
@@ -18,6 +25,10 @@ Hi there! I'm **Ananya**, a **tech enthusiast, problem-solver, and creative deve
 </p>
 
 ----------
+
+
+
+
 
 ## 💻 My Digital Toolkit
 
