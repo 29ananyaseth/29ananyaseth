@@ -1,8 +1,9 @@
 <!-- GitHub README by Ananya Seth -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hi+there+👋🏻+I+am+Ananya;Welcome+to+my+profile+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Namaste+🙏🏻+✨;Lets+Connect+🔗✨🤝" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -15,7 +16,7 @@
 
 🎓 BTech CSE @ Pranveer Singh Institute of Technology, Kanpur  
 💡 Passionate about AI, Machine Learning, and problem-solving  
-✨ Always learning, building, and creating—let’s connect!
+✨ Always learning, building, and creating.
 
 ---
 
@@ -71,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=29ananyaseth&theme=radical&hide_border=true" alt="GitHub Streak" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=29ananyaseth&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="420" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=29ananyaseth&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="420" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29ananyaseth&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="320" />
 </p>
 
