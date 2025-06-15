@@ -1,7 +1,7 @@
 <!-- GitHub README by Ananya Seth -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Namaste+🙏🏻+✨;Lets+Connect+🔗✨🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hello!+People+👋;Good+to+see+you+✨🤝" alt="Typing SVG" />
 </p>
 
 
